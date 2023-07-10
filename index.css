@@ -1,0 +1,129 @@
+*{
+    
+    margin:0;
+    padding:0;
+}
+.MainContainer{
+    background-color:#f7f7f7;
+    padding-bottom: 30vh;
+}
+.container{
+display:flex;
+padding: 18vh;
+padding-bottom: 30px;
+}
+.col1{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-top: 110px;
+    padding-left:65px;
+}
+
+.facebook{
+    padding-left: 15px;
+    height: 106px;
+    margin: -50px;
+    padding-bottom:35px;
+}
+
+.inputPass{
+    margin:2px 0px 0px 65px;
+    background-color:#fff;
+    border-radius:10px;
+    padding:12px 20px 10px 20px;
+    box-shadow: 0px 0px 0px 1px #BEBEBE;
+
+}
+.submit{
+    width:300px;
+    padding:15px;
+    padding-right: 35px;
+    border-radius:1px #fff;
+    background-color:#fff;
+    border-color:#BEBEBE;
+    border-style: solid;
+    font-size: 16px;
+	outline: none;
+
+}
+input:focus {
+    border: 1px solid #1877f2;
+  }
+
+.login{
+
+    text-align:center;
+    background-color:#1877f2;
+    border: none;
+    border-radius: 6px;
+    line-height: 48px;
+    width: 332px;
+    padding:0px 18px 0px 5px;
+  margin:10px 0px 10px 0px; 
+}
+.loginn{
+font-size: 20px;
+}
+
+.forpass{
+    text-align: center;
+    padding: 10px;
+}
+a{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.CreAccount
+{
+    background-color:#42b72a;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 48px;
+    color:#fff; 
+    margin:40px 82px 10px 84px;    
+
+}
+.forPass{
+    align-items: center;
+   color:#fff;
+    text-align: center;
+}
+.clr{
+    color:#1259B4;
+}
+.Page{
+text-align: right;
+margin-right: 250px;
+}
+.Check1{
+    margin: 20px 25vh 20px 25vh;
+}
+.check{
+justify-content:start;
+list-style-type:none;
+}
+.clr2{
+    color:#999999;
+    font-size: 12px;
+
+}
+a{
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.cheko{
+    background-color:	#ffffff;
+}
+.Meta{
+ padding:0px 25vh 10px 25vh;
+ font-size: 12px;
+ color:#999999;
+}
